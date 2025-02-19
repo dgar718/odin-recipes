@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, "Times New Roman", serif;
+}
+
+.main-title {
+    background-color: cadetblue;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipes {
+    background-color: palevioletred;
+    list-style: none;
+    text-align: center;
+    color: azure;
+}
+
+.recipes li a {
+    text-decoration: none;
+    color: azure;
+}
