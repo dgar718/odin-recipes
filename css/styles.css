@@ -2,11 +2,16 @@
     font-family: Verdana, "Times New Roman", serif;
 }
 
+.body-color {
+    background-color: #FFFAFA;
+}
+
 .main-title {
     background-color: cadetblue;
     color: blanchedalmond;
     text-align: center;
     font-size: 40px;
+    font-weight: 900;
 }
 
 .recipes {
@@ -14,6 +19,7 @@
     list-style: none;
     text-align: center;
     color: azure;
+    font-weight: 600;
 }
 
 .recipes li a {
