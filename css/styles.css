@@ -6,12 +6,19 @@
     background-color: #FFFAFA;
 }
 
+.inner {
+    width: 700px;
+    margin: auto;
+}
+
 .main-title {
     background-color: cadetblue;
     color: blanchedalmond;
     text-align: center;
     font-size: 40px;
     font-weight: 900;
+    padding: 16px 8px;
+    margin-bottom: 32px;
 }
 
 .recipes {
@@ -20,9 +27,12 @@
     text-align: center;
     color: azure;
     font-weight: 600;
+    padding: 16px 8px;
 }
 
 .recipes li a {
     text-decoration: none;
     color: azure;
+    display: inline-block;
+    margin: 4px 4px;
 }
