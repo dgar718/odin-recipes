@@ -36,3 +36,32 @@
     display: inline-block;
     margin: 4px 4px;
 }
+
+.main-title-recipe {
+    background-color: cadetblue;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    padding: 16px 8px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.main-recipe img {
+    display: block;
+    margin: 32px auto;
+}
+
+.recipes-header {
+    background-color: palevioletred;
+    text-align: center;
+    color: azure;
+    font-weight: 600;
+    padding: 16px 8px;
+}
+
+.recipe-steps ul {
+    list-style: none;
+}
